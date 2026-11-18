@@ -3,7 +3,7 @@
   <img src="https://images.rdavid.id/boboiboy-header.png" alt="BoBoiBoy Banner" width="100%" />
 </p>
 
-<h1 align="center">⚡ Hi 👋, I'm USERNAME_KAMU ⚡</h1>
+<h1 align="center">⚡ Hi 👋, I'm MsyafiqAkmal⚡</h1>
 <h3 align="center">🔥 A Tech Enthusiast harnessing Web & Android element powers! 🔥</h3>
 
 <p align="center">
@@ -40,4 +40,24 @@
 <p align="center">
   <!-- GIF pixel art BoBoiBoy yang lucu di bagian bawah -->
   <img src="https://media.giphy.com/media/your-boboiboy-gif-link/giphy.gif" width="150" alt="Boboiboy Chibi" />
+</p>
+
+### 📊 GitHub Stats & Streak
+
+<p align="center">
+  <!-- 1. Grafik Riwayat Kontribusi (Bagian Atas) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_KAMU&theme=radical" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <!-- 2. Kartu Data Streak (Jumlah Hari Berturut-turut Push Kode) -->
+  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- 3. Kartu Statistik Umum (Total Stars, Commits, PRs) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  
+  <!-- 4. Kartu Bahasa Pemrograman Paling Sering Dipakai -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=donut&theme=radical" alt="Top Languages" height="165" />
 </p>
