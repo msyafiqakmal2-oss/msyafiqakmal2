@@ -59,5 +59,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   
   <!-- 4. Kartu Bahasa Pemrograman Paling Sering Dipakai -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=donut&theme=radical" alt="Top Languages" height="165" />
-</p>
+  <
